@@ -4,7 +4,9 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on [Whatsapp Web](https://github.com/Srikar-C/Whatsapp-Web)<br>🌱 I’m currently learning Backend Technologies<br>💬 Here is My [RESUME](https://drive.google.com/file/d/1_vI7QOVH84N9WXGk-nuRj7UqSbRyFESB/view?usp=drivesdk)<br>📫 How to reach me **csrikar2003@gmail.com**
+🌱 I’m currently learning Backend Technologies<be>
+Completed with doing [Whatsapp Web](https://github.com/Srikar-C/Whatsapp-Web)<br>
+💬 Here is My [RESUME](https://drive.google.com/file/d/1_vI7QOVH84N9WXGk-nuRj7UqSbRyFESB/view?usp=drivesdk)<br>📫 How to reach me **csrikar2003@gmail.com**
 
 
 ## 🌐 Socials:
