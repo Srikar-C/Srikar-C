@@ -1,3 +1,6 @@
+<h1>Hi 👋, I'm Challa Srikar</h1>
+<h3>A passionate full-stack developer from India</h3>
+
 # 💫 About Me:
 🌱 I’m currently learning Backend Technologies<br>
 🚀🚀 Completed doing <a href="https://github.com/Srikar-C/Whatsapp-Web">Whatsapp Web Clone</a><br>
