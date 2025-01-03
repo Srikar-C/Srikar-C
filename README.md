@@ -1,11 +1,10 @@
-<h1>Hi 👋, I'm Challa Srikar</h1>
-<h3>A passionate full-stack developer from India</h3>
+<h1 style="text-align:center">Hi 👋, I'm Challa Srikar</h1>
+<h3 style="text-align:center">⚡ Passionate Full Stack Developer from India</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning Backend Technologies<br>
 🚀🚀 Completed doing <a href="https://github.com/Srikar-C/Whatsapp-Web">Whatsapp Web Clone</a><br>
 💬 How to reach me csrikar2003@gmail.com<br>
-⚡ Passionate Full Stack Developer<br>
 📫Here is my <a href="https://drive.google.com/file/d/1b2gV6sSOaUk7E2FDIKx1iffrZhbSESil/view">Resume</a>
 
 
