@@ -1,5 +1,5 @@
-<h1 style="text-align:center">Hi 👋, I'm Challa Srikar</h1>
-<h3 style="text-align:center">⚡ Passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Challa Srikar</h1>
+<h3 align="center">⚡ Passionate Full Stack Developer from India</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning Backend Technologies<br>
