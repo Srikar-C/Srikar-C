@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🌱 Full Stack Developer<br>
-🚀🚀 Completed doing <a href="https://github.com/Srikar-C/Whatsapp-Web](https://github.com/Srikar-C/BookStore-V2">BookStore</a> <a href="https://github.com/Srikar-C/Whatsapp-Web">Whatsapp Web Clone</a><br>
+🚀🚀 Completed doing <a href="https://github.com/Srikar-C/BookStore-V2">BookStore</a> <a href="https://github.com/Srikar-C/Whatsapp-Web">Whatsapp Web Clone</a><br>
 💬 How to reach me csrikar2003@gmail.com<br>
 📫Here is my <a href="https://drive.google.com/file/d/1-2Qlgsv4aGIPUwlTJbzGcGqkVXpSR5ur/view?usp=sharing">Resume</a>
 
