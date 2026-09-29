@@ -2,8 +2,8 @@
 <h3 align="center">⚡ Passionate Full Stack Developer from India</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Backend Technologies<br>
-🚀🚀 Completed doing <a href="https://github.com/Srikar-C/Whatsapp-Web">Whatsapp Web Clone</a><br>
+🌱 Full Stack Developer<br>
+🚀🚀 Completed doing <a href="https://github.com/Srikar-C/Whatsapp-Web](https://github.com/Srikar-C/BookStore-V2">BookStore</a> <a href="https://github.com/Srikar-C/Whatsapp-Web">Whatsapp Web Clone</a><br>
 💬 How to reach me csrikar2003@gmail.com<br>
 📫Here is my <a href="https://drive.google.com/file/d/1b2gV6sSOaUk7E2FDIKx1iffrZhbSESil/view">Resume</a>
 
